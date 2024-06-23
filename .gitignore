@@ -1,0 +1,5 @@
+"virtual_env/" 
+virtual_env
+virtual_env/
+requirements.txt/
+__pycache__/    virtual_env/
